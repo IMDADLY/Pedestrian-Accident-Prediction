@@ -24,6 +24,10 @@ service / others	0.2
 
 checks if pedestrian footpath is present or not. Footpath not present = 0, footpath is present = 1.
 
+PEDESTRIAN ACCIDENT PREDICTION ON KOLLAM CITY, KERALA
+<img width="1202" height="705" alt="Screenshot 2026-04-26 at 12 35 36 PM" src="https://github.com/user-attachments/assets/08e3d83d-6d2f-47e9-85aa-b87688a057be" />
+
+
 HOW TO SETUP:
 
 1. git clone

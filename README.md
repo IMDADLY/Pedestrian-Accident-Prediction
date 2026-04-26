@@ -24,7 +24,7 @@ service / others	0.2
 
 checks if pedestrian footpath is present or not. Footpath not present = 0, footpath is present = 1.
 
-Setup
+HOW TO SETUP:
 
 1. git clone
 2. Create python virtual environment in workspace folder

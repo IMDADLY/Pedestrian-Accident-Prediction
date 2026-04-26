@@ -23,3 +23,11 @@ service / others	0.2
 4.Pedestrian infrastructure
 
 checks if pedestrian footpath is present or not. Footpath not present = 0, footpath is present = 1.
+
+Setup
+
+1. git clone
+2. Create python virtual environment in workspace folder
+3. Activate python virtual environment
+4. pip install requirements.txt
+5. Run in terminal - python3 run.py
